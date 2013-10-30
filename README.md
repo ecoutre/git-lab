@@ -19,4 +19,6 @@ Lab Session: Wednesday, 10 am
 
 !["http://octodex.github.com/images/octocat-de-los-muertos.jpg"]
 
- 
+
+###New Features Under Development
+       + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html) 
